@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/6b852de0-0f85-4679-a0d9-594e6ac50a24" width="100"> Hello there! 🌍
+## <img src="https://github.com/user-attachments/assets/d9014992-c526-4d48-bec0-536f9869a0c7" width="100"> Hello there! 🌍
 
 You can call me V, I'm a software engineer. 
 
