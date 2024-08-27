@@ -4,7 +4,7 @@ You can call me V, I'm a software engineer.
 
 Irony isn't lost on me as I did a full circle during decade+ of experience from full-stack GUI applications to intense backend work and now back again to the full-stack. Tools change, knowledge grows, but a good backend always deserves a face, even if one becomes quite skilled in hand waving the ideas 💫
 
-- 🦀 Nowdays, I do humble programming with Rust, whilst Python happened to be the primary language across many years before.
+- 🦀 Nowadays, I do humble programming with Rust, whilst Python happened to be the primary language across many years before.
 
 - ⚔️  Nothing beats an easy-going collaborative team, when you saw one or even got to build it once, it's something to strive and care for. Such a rare beast!
 
